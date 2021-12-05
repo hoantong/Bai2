@@ -1,0 +1,45 @@
+.col-md-12{
+    padding: 0;
+}
+.my-text-justify{
+    text-align: justify;
+
+}
+.text-muted-size{
+    font-size: 25px;
+}
+#header{
+    width: 100%;
+    height: 100%;
+   
+}
+.container-fluid__n{
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #fff;
+    background-color: #fff;
+    position: fixed;
+    z-index: 1;
+    top:0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+}
+.container-fluid footer{
+    box-sizing: border-box;
+    border-top: 1px solid #757070;
+   
+}
+.lead-my-text-justify-size{
+    font-size: 15px;
+}
+.boder-botoonm{
+    margin-top: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #757070;
+
+}
+.footer-item-1{
+    list-style: none;
+
+}
